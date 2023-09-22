@@ -7,3 +7,5 @@ collections:
     type: git
   - name: amazon.aws
     source: https://galaxy.ansible.com
+  - name: cisco.ios
+    source: https://galaxy.ansible.com
